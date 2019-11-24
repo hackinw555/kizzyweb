@@ -6,15 +6,16 @@ A Minecraft Webshop Originally by DriteStudio. Open Sourced, with Love
 
 ดาวน์โหลดไฟล์ index.php จากโฟลเดอร์ installer ไปรัน หรือ เข้า http://127.0.0.1/ เพื่อเข้าสู่หน้า Installer
 
+## Download Scirpt (ผ่าน Browser)
 หรือ [คลิกขวาที่นี่](https://github.com/MinecraftChannel/kizzyweb/raw/master/installer/index.php) แล้วกด "Save link as..." / "บันทึกลิงค์เป็น..."
 
-## Download Script (Windows)
+## Download Script (ผ่าน Powershell/Command Prompt Windows)
 ติดตั้งที่ C:\xampp\htdocs\
 ```
 powershell Start-BitsTransfer -Source https://github.com/MinecraftChannel/kizzyweb/raw/master/installer/index.php -Destination C:\xampp\htdocs\index.php
 ```
 
-## Download Script (Linux)
+## Download Script (ผ่าน Terminal Linux/Mac)
 ติดตั้งที่ /var/www/vhosts/www.example.com/httpdocs/
 ```
 wget -O /var/www/vhosts/www.example.com/httpdocs/index.php https://github.com/MinecraftChannel/kizzyweb/raw/master/installer/index.php
