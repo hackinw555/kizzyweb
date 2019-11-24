@@ -1,4 +1,4 @@
-# kizzyweb
+# kizzyweb (คิดสิเว็บ)
 A Minecraft Webshop Originally by DriteStudio. Open Sourced, with Love
 
 # How to Install
