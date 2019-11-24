@@ -2,6 +2,8 @@
 A Minecraft Webshop Originally by DriteStudio. Open Sourced, with Love
 
 # How to Install
+// ขณะนี้อยู่ในขั้นตอนการ Clean Up & Refactor หลายๆอย่างอาจจะยังไม่สะดวก
+
 ดาวน์โหลดไฟล์ index.php จากโฟลเดอร์ installer ไปรัน หรือ เข้า http://127.0.0.1/ เพื่อเข้าสู่หน้า Installer
 
 ## Download Script (Windows)
@@ -15,8 +17,6 @@ powershell Start-BitsTransfer -Source https://github.com/MinecraftChannel/kizzyw
 ```
 wget -O /var/www/vhosts/www.example.com/httpdocs/index.php https://github.com/MinecraftChannel/kizzyweb/raw/master/installer/index.php
 ```
-
-// ขณะนี้อยู่ในขั้นตอนการ Clean Up & Refactor หลายๆอย่างอาจจะยังไม่สะดวก
 
 # Why Open Source
 ทาง DriteStudio ได้ปล่อย Webshop ตัวนี้ให้ฟรีภายใต้ MIT License เพื่อให้นักเปิดเซิร์ฟทุกท่านมีเว็บที่ดีไปใช้งาน
